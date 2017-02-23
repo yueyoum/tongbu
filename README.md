@@ -4,13 +4,13 @@
 
 延迟使用 [tc命令](https://wiki.linuxfoundation.org/networking/netem) 设置
 
-![demo.gif](http://77fm2e.com1.z0.glb.clouddn.com/tongbu2.gif)
+<img src="http://77fm2e.com1.z0.glb.clouddn.com/tongbu2.gif" width="400">
 
 速度在 100，200，300 之间变化
 
-1:  0延迟
-2:  80 ~ 120ms 延迟
-3:  160 ~ 240ms 延迟
+1.  0延迟
+2.  80 ~ 120ms 延迟
+3.  160 ~ 240ms 延迟
 
 
 **同步包结构:**
